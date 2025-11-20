@@ -1,0 +1,2 @@
+#!/bin/sh
+clang unarpack.c -ounarpack -O3 -lm -s
